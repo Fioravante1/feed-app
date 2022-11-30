@@ -1,4 +1,4 @@
-/* :root {
+:root {
   --white: #ffffff;
   --gray-500: #e1e1e6;
   --gray-600: #929292;
@@ -19,4 +19,4 @@ body {
   background: var(--gray-900);
   color: var(--gray-500);
   -webkit-font-smoothing: antialiased;
-} */
+}

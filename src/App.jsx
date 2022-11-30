@@ -1,4 +1,5 @@
 import Post from "./Post"
+import './global.css'
 
 function App() {
   return (
