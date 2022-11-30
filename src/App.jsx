@@ -1,10 +1,11 @@
 import Post from "./Post"
 import './global.css'
+import Header from "./components/header/Header"
 
 function App() {
   return (
     <>
-      <h1>Fioravante Chiozzi</h1>
+      <Header />
       <Post />
     </>
   )
